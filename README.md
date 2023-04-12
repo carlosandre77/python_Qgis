@@ -1,2 +1,2 @@
 # python_qgis
-códigos Python para qgis 
+códigos Python para Qgis 
